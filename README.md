@@ -4,8 +4,8 @@ aws-serverless-developer-portal is a developer portal application that allows us
 
 It also optionally supports subscription/unsubscription through a SaaS product offering through the AWS Marketplace.
 
-![Alt text](/screen-home.png?raw=true)
-![Alt text](/screen-documentation.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/awslabs/aws-api-gateway-developer-portal/master//screen-home.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/awslabs/aws-api-gateway-developer-portal/master//screen-documentation.png?raw=true)
 
 ## Setup
 
