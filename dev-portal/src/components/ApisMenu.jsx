@@ -21,8 +21,6 @@ function isActive (apiId, selectedApiId) {
 export default observer(function ApisMenu() {
   const { path, ...props } = this.props
 
-  console.log(store)
-
   const loadingApis = !store.apiList.loaded
   const hasGatewayApis = !!_.get(store, 'apiList.apiGateway.length')
   const hasGenericApis = !!_.get(store, 'apiList.generic.length')
